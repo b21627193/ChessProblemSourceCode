@@ -1,5 +1,3 @@
-package com.company;
-
 public class Fil extends Tas {
     public Fil(int renk, int x, int y) {
         this.setPuan(3);

@@ -1,5 +1,3 @@
-package com.company;
-
 public class Piyon extends Tas{
 
     public Piyon(int renk, int x, int y) {

@@ -1,4 +1,3 @@
-package com.company;
 
 public class Vezir extends Tas {
     public Vezir(int renk, int x, int y) {

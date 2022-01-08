@@ -1,5 +1,3 @@
-package com.company;
-
 public class Sah extends Tas {
 
     public Sah(int renk, int x, int y) {

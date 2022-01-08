@@ -1,5 +1,3 @@
-package com.company;
-
 public class At extends Tas{
 
     public At(int renk, int x, int y) {

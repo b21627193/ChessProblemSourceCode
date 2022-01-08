@@ -1,5 +1,3 @@
-package com.company;
-
 public class Kale extends Tas {
     public Kale(int renk, int x, int y) {
         this.setPuan(5);
